@@ -1,3 +1,4 @@
+![Screen Shot 2022-11-22 at 3 55 04 PM](https://user-images.githubusercontent.com/106638262/203246869-b933514e-3bb1-4b74-ab53-acbf42e8ec08.png)
 
 <img alt="Link" src="https://github.com/loafcheck/online_store-react_practice/issues/2#issue-1459246805" align="right"/>
 
