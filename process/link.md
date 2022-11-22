@@ -1,5 +1,5 @@
 
-<img alt="Coding" src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right"/>
+<img alt="Link" src="https://github.com/loafcheck/online_store-react_practice/issues/2#issue-1459246805" align="right"/>
 
 // we can specify the links in react with three different ways
 // 1. purf html reference
