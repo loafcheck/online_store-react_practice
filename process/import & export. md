@@ -1,0 +1,19 @@
+import {Blog} from './App.js';
+import Blog from './App.js';
+
+
+App.js 파일에서
+export function Blog(){}
+export한 데이터를
+export default
+
+export만 사용시->
+export
+(한 파일 기준으로)
+export는 여러 녀석을 가져올 수 있음.
+
+export default 사용시->
+export default는 한 파일에서 하나만 가져올 수 있음
+import Blog from "./App.js'
+import {} 안하면 이름작명이 가능해서 동일한게 아닐수 있음.
+따라서 여러개의 component중 특정한 1가지를 가지고 오고자 한다면 {Blog} 이렇게 사용하도록하자.
