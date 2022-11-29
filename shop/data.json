@@ -1,44 +1,40 @@
 [
  {
-        id : 13,
-        title : "Stain Lamp",
+        id : 6,
+        title : "Dai Lamp",
         content : "Made in France",
-        price : "12,000,000 won" 
+        price : "550,000 won" 
+    },
+    {
+        id : 7,
+        title : "Torgape' Wall Stand",
+        content : "Made in France",
+        price : "1,100,000 won" 
+    },
+    {
+        id : 8,
+        title : "Tamblaan Chair",
+        content : "Made in France",
+        price : "950,000 won" 
+    },
+    {
+        id : 9,
+        title : "Tokabo Lamp",
+        content : "Made in France",
+        price : "7,500,000 won" 
+    },
+    {
+        id : 10,
+        title : "Arstid Stool",
+        content : "Made in France",
+        price : "900,000 won" 
+    },
+    {
+        id : 11,
+        title : "Nymane Light",
+        content : "Made in France",
+        price : "6,500,000 won" 
     },
 
-    {
-        id : 14,
-        title : "Neo Bar Chair",
-        content : "Made in France",
-        price : "7,000,000 won "
-    },
-
-    {
-        id : 15,
-        title : "Guard Vase",
-        content : "Made in France",
-        price : "1,300,000 won" 
-    },
-
-    {
-        id : 16,
-        title : "Wood Desk",
-        content : "Made in France",
-        price : "2,300,000 won" 
-    },
-
-    {
-        id : 17,
-        title : "Silver Lamp",
-        content : "Made in France",
-        price : "800,000 won"
-    },
-    
-    {
-        id : 17,
-        title : "Silver Lamp",
-        content : "Made in France",
-        price : "800,000 won"
-    }
 
 ]
